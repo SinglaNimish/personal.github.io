@@ -1,0 +1,33 @@
+.custom-height {
+    height: 400px;
+  }
+  .custom2-height {
+    height: 200px;
+  }
+  
+  .custom-width {
+    width: 500px;
+  }
+  .custom3-height {
+    height: 600px;
+  }
+  .contact-container {
+    background-image: url('cont.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    /* Add padding as needed */
+  }
+  /* .home-container {
+    background-image: url('bcg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    
+   } */
+
+  /* .nimi{
+    color: rgb(254, 249, 249);
+  } */
